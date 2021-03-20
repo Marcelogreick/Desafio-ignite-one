@@ -1,5 +1,3 @@
-<h1 align='center'><img width="300" src="./src/assets/logo.svg" alt="Logo" /></h1> 
-
 ## Projeto
 
 Uma plataforma desenvolvida no **Ignite Trilha React** da [Rocketseat](https://www.rocketseat.com.br).
